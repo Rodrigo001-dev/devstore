@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## :page_with_curl: Projeto
 
-## Getting Started
+![]()
 
-First, run the development server:
+> <b>Dev store</b> É uma aplicação de e-commerce feito no Ignite da [Rocketseat](https://github.com/Rocketseat). Nessa aplicação o objetivo foi utilizar os conceitos introduzidos a partir do Next 13, que basicamente consiste em levar menos javascript para o lado do cliente, utilizando conceitos como Server Components para atingir esse objetivo, nessa aplicação também foi utilizado o Cypress para realizar testes E2E na web.
+
+## 🚀 Tecnologias/Bibliotecas utilizadas
+
+<<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
+<a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> </a>
+<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"> <img src="https://img.shields.io/badge/-Cypress-00814d?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"> </a>
+
+## :construction_worker: Executando
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone o Repositório
+$ git@github.com:Rodrigo001-dev/devstore.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+# Acesse a pasta do projeto
+$ cd devstore
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Baixe as dependências
+$ pnpm i
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+# Execute
+$ pnpm run dev
+```
 
-## Learn More
+## 💻 Autor
 
-To learn more about Next.js, take a look at the following resources:
+Feito com 💜 by Rodrigo Rael
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="https://www.linkedin.com/in/rodrigo-rael-a7a4b51a9/" target="_blank"> <img src="https://img.shields.io/badge/-RodrigoRael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https" alt="Linkedin Rodrigo"> </a>
+<a href="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" alt="Gmail Rodrigo"> </a>
