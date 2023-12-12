@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologias/Bibliotecas utilizadas
 
-<<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next"> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
 <a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> </a>
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"> <img src="https://img.shields.io/badge/-Cypress-00814d?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"> </a>
