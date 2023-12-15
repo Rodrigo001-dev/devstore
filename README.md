@@ -1,6 +1,6 @@
 ## :page_with_curl: Projeto
 
-![]()
+![Dev Store Gif](https://github.com/Rodrigo001-dev/devstore/blob/main/.github/images/dev-store.gif)
 
 > <b>Dev store</b> É uma aplicação de e-commerce feito no Ignite da [Rocketseat](https://github.com/Rocketseat). Nessa aplicação o objetivo foi utilizar os conceitos introduzidos a partir do Next 13, que basicamente consiste em levar menos javascript para o lado do cliente, utilizando conceitos como Server Components para atingir esse objetivo, nessa aplicação também foi utilizado o Cypress para realizar testes E2E na web.
 
